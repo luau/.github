@@ -1,3 +1,3 @@
 # HUGE TEXT
-Welcome Screen
-![:name](https://count.getloli.com/get/@:name)
+
+![:orgluau](https://count.getloli.com/get/@:orgluau?theme=asoul)
